@@ -6,7 +6,7 @@
       "value": "hello-bicep-vm"
     },
     "location": {
-      "value": "eastus"
+      "value": "denmarkeast"
     },
     "vmSize": {
       "value": "Standard_DS1_v2"
@@ -15,7 +15,7 @@
       "value": "azureadmin"
     },
     "adminPassword": {
-      "value": "P@ssw0rd1234!"
+      "value": "azureadmin@123"
     },
     "osDiskStorageAccountType": {
       "value": "Standard_LRS"
