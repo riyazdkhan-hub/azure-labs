@@ -6,7 +6,7 @@
       "value": "hello-arm-vm"
     },
     "location": {
-      "value": "eastus"
+      "value": "denmarkeast"
     },
     "vmSize": {
       "value": "Standard_DS1_v2"
